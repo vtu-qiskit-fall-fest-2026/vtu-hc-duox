@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **DuoX** · Team ID `VTU-QFF-HC-0115` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#DuoX)
+[⬆ Back to Top](#duox)
 
 </div>
